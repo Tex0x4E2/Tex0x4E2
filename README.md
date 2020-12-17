@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tex's Spotify Playing" width="350" />](https://open.spotify.com/user/joe9adzctlf43djzssj8pst0y)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tex's Spotify Playing" width="350" />](https://open.spotify.com/user/joe9adzhrlf43djzssj8pst0y)
 
 ### Languages and Tools:
 
