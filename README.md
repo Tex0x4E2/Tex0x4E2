@@ -2,9 +2,9 @@
 
 ## I'm a Coder, Developer, Reverse Engineer, and student!!
 
-- 🌱 I’m currently learning assembly & rust.
+- 💡 I’m currently learning assembly & rust.
 - 👯 I’m looking to collaborate with other coders.
-- 🥅 2021 Goals: Make a driver that write into the physical memory.
+- 🎯 2021 Goals: Make a driver that write into the physical memory.
 
 ### Spotify Playing 🎧
 
