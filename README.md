@@ -1,6 +1,6 @@
 ### Hi there, I'm Tex - aka [Tex#0245][website] 👋
 
-## I'm a Coder, Developer, Reverse Engineer, and student!!
+## I'm a Coder, Developer, Reverse Engineer, and a student!!
 
 - 💡 I’m currently learning assembly & rust.
 - 👯 I’m looking to collaborate with other coders.
