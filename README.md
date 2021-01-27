@@ -2,7 +2,7 @@
 
 ## I'm a Coder, Developer, Reverse Engineer, Pentester, and a student!!
 
-- I’m currently learning assembly & rust.
+- I’m currently learning Assembly & Rust.
 - 2021 Goals: Make a driver that write into the physical memory.
 
 <br />
