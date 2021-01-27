@@ -1,4 +1,4 @@
-### My Discord - Tex#6666
+### Discord - Tex#6666
 
 ## I'm a Coder, Developer, Reverse Engineer, Pentester, and a student!!
 
