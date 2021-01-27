@@ -1,6 +1,6 @@
 ### My Discord - Tex#6666
 
-## I'm a Coder, Developer, Reverse Engineer, and a student!!
+## I'm a Coder, Developer, Reverse Engineer, Pentester, and a student!!
 
 - I’m currently learning assembly & rust.
 - 2021 Goals: Make a driver that write into the physical memory.
